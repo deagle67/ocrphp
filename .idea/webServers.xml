@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dabc5e7c-f98d-4bc6-8253-9a8d1c09792d" name="1and1" url="http://ftp.nicolaswoerth.info">
+        <fileTransfer host="ftp.nicolaswoerth.info" port="21" password="dfecdfdfdfc4dfc9df9bdf9adf99df9adf9bdf99df99df9d" username="u83411063">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
